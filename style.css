@@ -1,0 +1,24 @@
+#container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+
+ 
+
+#rectangle {
+   background-color: #ADDFAD;
+   width: 300px;
+   height: 150px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+ 
+
+#name {
+   color: #CF3476;
+   font-size: 24px;
+}
